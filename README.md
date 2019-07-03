@@ -6,6 +6,7 @@ Arduino Water Level Indicator
 2. When the water level is low, the motor is turn on automatically
 3. LCD Display water level
 4. SMS notification(comming soon)
+5. The website displays the water level(comming soon)
 
 # Gerber file
 I am added my Gerber file with this repo. So you don't need to create a new one.
